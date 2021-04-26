@@ -1,3 +1,3 @@
 # xLing
-A Messaging Library
-<h2> Traditional Event-Delegate Pattern </h2>
+.Net Rule Engine
+<h2> Overall  </h2>
